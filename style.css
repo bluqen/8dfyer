@@ -43,9 +43,6 @@ a:hover { color: var(--gold); }
 .by { font: 12px var(--mono); color: var(--muted); }
 .by-link { color: var(--link); text-decoration: underline; text-underline-offset: 2px; padding: 12px 0; }
 .by-link:hover { color: #9cc3ff; }
-.nav { list-style: none; margin: 0; padding: 0; display: flex; gap: 2px; }
-.nav a { display: flex; align-items: center; min-height: 44px; padding: 0 10px; font: 13px var(--mono); text-decoration: none; color: var(--muted); }
-.nav a:hover { color: var(--gold); }
 
 /* hero */
 .hero { padding: clamp(40px, 8vw, 88px) 0 clamp(28px, 4vw, 40px); }
